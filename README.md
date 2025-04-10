@@ -64,18 +64,21 @@
 ---
 
 ## 🔥 Projects
-**Carbon Footprint Tracker:**
-Description:
+
+## Carbon Footprint Tracker:
+**Description:**
 
 The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
 
-Key Features:
+**Key Features**
 📡 Real-time Monitoring using IoT devices
 📊 Multistep Prediction of monthly carbon emissions using CNN-LSTM models
 🧠 AI-Driven Insights for emission reduction and energy optimization
 🔍 Industry-specific Recommendations based on regulatory frameworks
 📈 Historical Data Visualization and trend analysis
 🌐 Web Dashboard for tracking and decision-making
+
+**Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 
 ## NIDS
 **Description:**
