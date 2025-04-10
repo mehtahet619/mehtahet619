@@ -72,6 +72,39 @@ Key Features:
 📈 Historical Data Visualization and trend analysis
 🌐 Web Dashboard for tracking and decision-making
 
+**NIDS**
+Description:
+
+The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
+
+Key Features:
+🚨 Anomaly-Based Intrusion Detection using machine learning algorithms
+🧠 Intelligent Pattern Recognition for zero-day attack detection
+📈 Real-time Traffic Monitoring and packet analysis
+🧩 Visualization Dashboard for threat reports and alerts
+🔒 Modular Design to integrate with intrusion prevention systems (IPS)
+🔁 Scalable & Adaptable to evolving network environments
+
+Tech Stack: Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
+
+## ⚖️ AI-Driven Research Engine for Commercial Courts
+
+**Description:**
+
+This project is an advanced AI-powered legal research engine tailored specifically for commercial courts. It streamlines the process of legal research by extracting, analyzing, and recommending relevant judgments using state-of-the-art NLP and machine learning models. The system enables lawyers, judges, and legal researchers to access case precedents, predict outcomes, and generate insights with unprecedented speed and accuracy—helping modernize the legal ecosystem.
+
+**Key Features:**
+
+🧠 NLP-Based Legal Text Processing using models like LegalBERT, SpaCy, and T5
+🔍 Semantic Search & Summarization for relevant judgments and legal documents
+📚 Predictive Analytics for outcome likelihood and legal trend detection
+🌐 Multilingual Support with XLM-R for localized legal research
+✅ Personalized Case Suggestions and responsible AI integration
+📊 User Dashboard with filters, highlights, and case linking
+
+**Tech Stack:** Python, LegalBERT, T5, XLM-R, SpaCy, Elasticsearch, Scrapy, Flask, Django, React.js, SHAP, XGBoost, LSTM
+
+
 ---
 
 ## 📈 GitHub Stats
