@@ -132,15 +132,6 @@ This project is an advanced AI-powered legal research engine tailored specifical
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-<!-- Funny Quote Section -->
-## Funny Dev Quote Generator
-<p align="center">
-  <button id="generate-quote" style="padding: 10px 20px; background-color: #38B2AC; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
-    Generate Funny Quote
-  </button>
-</p>
-
-<p id="quote-display" style="text-align: center; font-size: 18px; color: #555; margin-top: 20px;"></p>
 
 
 
