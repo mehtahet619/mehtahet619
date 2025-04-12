@@ -124,6 +124,15 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 ---
 
+---
+
+## 😂 Random & Funny Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Het Mehta](https://www.linkedin.com/in/het-mehta-5b9a47236)  
