@@ -142,5 +142,4 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 ---
 
-*Crafted with passion — AI x Web x Security*
 
