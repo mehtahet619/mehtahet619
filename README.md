@@ -127,6 +127,13 @@ This project is an advanced AI-powered legal research engine tailored specifical
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahet619&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
 </p>
 
+## Competitive Programming
+## 🏆 Competitive Programming
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mehtahet619)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mehtahet619)
+
+
 ---
 
 ---
