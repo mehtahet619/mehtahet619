@@ -10,6 +10,10 @@
   <a href="https://hetmehtaportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://mehtahet619.github.io" target="_blank" style="text-decoration:none; font-family: Arial, sans-serif; display: inline-block; padding: 6px 12px; background-color: #24292e; color: #ffffff; border-radius: 5px; font-weight: 600;">
+   GitHub Resume 
+</a>
+
 </p>
 
 ---
