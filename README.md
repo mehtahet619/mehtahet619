@@ -32,6 +32,16 @@
 ![LSTM](https://img.shields.io/badge/-LSTM-4B8BBE?style=flat)
 ![CNN](https://img.shields.io/badge/-CNN-003366?style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-8E44AD?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)
+![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=flat)
+![spaCy](https://img.shields.io/badge/-spaCy-09A3AC?style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-29A7E1?style=flat)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FF6C37?logo=huggingface&logoColor=white&style=flat)
 
 ---
 
