@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/het-mehta-5b9a47236" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://hetmehtaportfolio.vercel.app/" target="_blank">
+  <a href="https://hetmehta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://mehtahet619.github.io" target="_blank">
