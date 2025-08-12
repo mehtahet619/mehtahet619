@@ -76,6 +76,26 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
 
+
+## Cybersecurity Skills
+![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?logo=wireshark&logoColor=white&style=flat)  
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-4A154B?logo=metasploit&logoColor=white&style=flat)  
+![Nmap](https://img.shields.io/badge/-Nmap-FF6611?logo=nmap&logoColor=white&style=flat)  
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF5722?logo=burpsuite&logoColor=white&style=flat)  
+![OWASP](https://img.shields.io/badge/-OWASP-3D9970?logo=owasp&logoColor=white&style=flat)  
+![Snort](https://img.shields.io/badge/-Snort-DC2F02?logo=snort&logoColor=white&style=flat)  
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-008000?logo=openvas&logoColor=white&style=flat)  
+![Splunk](https://img.shields.io/badge/-Splunk-2E2E2E?logo=splunk&logoColor=white&style=flat)  
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0E2?logo=cisco&logoColor=white&style=flat)  
+![SSL/TLS](https://img.shields.io/badge/-SSL--TLS-0052CC?style=flat)  
+![IAM](https://img.shields.io/badge/-IAM-ff9900?style=flat)  
+![Firewall](https://img.shields.io/badge/-Firewall-FF4500?style=flat)  
+![Incident Response](https://img.shields.io/badge/-Incident_Response-007ACC?style=flat)  
+![SIEM](https://img.shields.io/badge/-SIEM-00A1F1?style=flat)  
+![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-FF6F61?style=flat)  
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008080?style=flat)
+
 ---
 
 ## 🔥 Projects
