@@ -67,16 +67,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 
-### Tools / DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
-
-
 ## Cybersecurity Skills
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?logo=wireshark&logoColor=white&style=flat)  
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)  
@@ -94,7 +84,18 @@
 ![Incident Response](https://img.shields.io/badge/-Incident_Response-007ACC?style=flat)  
 ![SIEM](https://img.shields.io/badge/-SIEM-00A1F1?style=flat)  
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-FF6F61?style=flat)  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008080?style=flat)
+
+
+### Tools / DevOps
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+
+
 
 ---
 
