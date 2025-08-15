@@ -153,9 +153,9 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehtahet619&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahet619&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+<p align="center" style="animation: fadeIn 3s;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehtahet619&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahet619&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 
@@ -184,5 +184,22 @@ This project is an advanced AI-powered legal research engine tailored specifical
 - **Portfolio:** [hetmehtaportfolio.vercel.app](https://hetmehtaportfolio.vercel.app)
 
 ---
-
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes slideIn {
+  from { transform: translateX(-20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+@keyframes pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+</style>
 
