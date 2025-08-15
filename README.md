@@ -1,20 +1,27 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Het Chirag Mehta!</h1>
-<h3 align="center">AI/ML Developer | Full Stack Enthusiast | Ethical Hacking Enthusiast</h3>
+<h1 align="center">
+  <a href="https://github.com/mehtahet619">
+    <span style="background: linear-gradient(270deg, #ff6ec4, #7873f5, #3fd0f7); background-size: 600% 600%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientBG 12s ease infinite;">
+      Hi there, I'm Het Chirag Mehta!
+    </span>
+  </a>
+</h1>
+
+<h3 align="center" style="animation: fadeIn 2s ease forwards; opacity: 0;">
+  AI/ML Developer | Full Stack Enthusiast | Ethical Hacking Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/het-mehta-5b9a47236" target="_blank">
+  <a href="https://www.linkedin.com/in/het-mehta-5b9a47236" target="_blank" style="animation: pulse 2s infinite;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://hetmehta.vercel.app/" target="_blank">
+  <a href="https://hetmehta.vercel.app/" target="_blank" style="animation: pulse 2s infinite;">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://mehtahet619.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub_Resume-24292e?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-
+  <a href="https://mehtahet619.github.io" target="_blank" style="animation: pulse 2s infinite;">
+    <img src="https://img.shields.io/badge/-GitHub_Resume-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -101,7 +108,7 @@
 
 ## 🔥 Projects
 
-## ♻️Carbon Footprint Tracker:
+<h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker</h3>
 **Description:**
 
 The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
@@ -116,7 +123,7 @@ The Carbon Footprint Tracker is an AI-powered platform designed to help industri
 
 **Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 
-## :🛡️NIDS
+<h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS</h3>
 **Description:**
 
 The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
@@ -131,8 +138,7 @@ The Network Intrusion Detection System is a real-time AI-powered security soluti
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
 
-## ⚖️ AI-Driven Research Engine for Commercial Courts
-
+<h3 style="animation: slideIn 3s ease forwards; opacity: 0;">⚖️ AI-Driven Research Engine</h3>
 **Description:**
 
 This project is an advanced AI-powered legal research engine tailored specifically for commercial courts. It streamlines the process of legal research by extracting, analyzing, and recommending relevant judgments using state-of-the-art NLP and machine learning models. The system enables lawyers, judges, and legal researchers to access case precedents, predict outcomes, and generate insights with unprecedented speed and accuracy—helping modernize the legal ecosystem.
@@ -153,11 +159,20 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 ## 📈 GitHub Stats
 
-<p align="center" style="animation: fadeIn 3s;">
+<p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mehtahet619&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahet619&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+<!-- Snake animation around GitHub stats -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake.svg" width="650"/>
+  </picture>
+</p>
 
 ## 🏆 Competitive Programming
 
