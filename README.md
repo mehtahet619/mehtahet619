@@ -11,8 +11,9 @@
 <h3 align="center" style="animation: fadeIn 2s ease forwards; opacity: 0;">
 <!-- Typewriter Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A4FC&center=true&width=600&lines=AI/ML+Developer+|+Full+Stack+Enthusiast+|+Ethical+Hacking+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=70A4FC&center=true&width=600&lines=AI/ML;Full+Stack;Cybersecurity;DevOps" alt="Categories Typing Animation"/>
 </p>
+
 </h3>
 
 <p align="center">
