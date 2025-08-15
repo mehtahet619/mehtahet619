@@ -9,7 +9,10 @@
 </h1>
 
 <h3 align="center" style="animation: fadeIn 2s ease forwards; opacity: 0;">
-  AI/ML Developer | Full Stack Enthusiast | Ethical Hacking Enthusiast
+<!-- Typewriter Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=70A4FC&center=true&width=600&lines=Hi+there,+I'm+Het+Chirag+Mehta!;AI/ML+Developer+|+Full+Stack+Enthusiast+|+Ethical+Hacking+Enthusiast" alt="Typing SVG"/>
+</p>
 </h3>
 
 <p align="center">
