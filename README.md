@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <img src="https://gifdb.com/images/high/waving-hand-animated-gif-7d9j6o6r7whxnj6z.gif" width="40">
 
 <h1 align="center">
   <a href="https://github.com/mehtahet619">
