@@ -169,9 +169,10 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
+  
   <img src="https://github-readme-stats.vercel.app/api?username=mehtahet619&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtahet619&layout=compact&theme=tokyonight" height="180"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDalvadi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="UmangDalvadi" width="292px"/> <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> |
 </p>
 
 <!-- Snake animation around GitHub stats -->
