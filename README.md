@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.tenor.com/tEwuXx7FiTQAAAAM/hi-hey-there.gif" width="50px">
 
 <p align="center">
-  I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=70A4FC&center=true&width=600&lines=Het+Chirag+Mehta+👋;Full-Stack+Developer;AI/ML+Enthusiast;Cybersecurity;DevOps;Ethical+Hacking;Data+Science;IoT;Web+Development;Networking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=70A4FC&center=true&width=600&lines=I'm+Het+Chirag+Mehta+👋;Full-Stack+Developer;AI/ML+Enthusiast;Cybersecurity;DevOps;Ethical+Hacking;Data+Science;IoT;Web+Development;Networking" alt="Typing SVG" />
 </p>
 
 
