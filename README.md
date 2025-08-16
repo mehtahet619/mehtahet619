@@ -176,6 +176,11 @@ This project is an advanced AI-powered legal research engine tailored specifical
 </p>
 
 <!-- Snake animation around GitHub stats -->
+
+
+
+
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmangDalvadi/UmangDalvadi/output/github-snake-dark.svg" />
