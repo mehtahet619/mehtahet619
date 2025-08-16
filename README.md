@@ -28,9 +28,7 @@
     <img src="https://img.shields.io/badge/-GitHub_Resume-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Language and tools <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
@@ -58,6 +56,8 @@
 ![Statsmodels](https://img.shields.io/badge/-Statsmodels-29A7E1?style=flat)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FF6C37?logo=huggingface&logoColor=white&style=flat)
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
 ---
 
