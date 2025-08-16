@@ -29,8 +29,8 @@
   </a>
 </p>
 
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🧠 AI / Machine Learning Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -109,7 +109,7 @@
 
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🔥 Projects
 
@@ -160,7 +160,7 @@ This project is an advanced AI-powered legal research engine tailored specifical
 **Tech Stack:** Python, LegalBERT, T5, XLM-R, SpaCy, Elasticsearch, Scrapy, Flask, Django, React.js, SHAP, XGBoost, LSTM
 
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 📈 GitHub Stats
 
@@ -179,15 +179,15 @@ This project is an advanced AI-powered legal research engine tailored specifical
   </picture>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🏆 Competitive Programming
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mehtahet619)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mehtahet619)
 
 
----
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## Dev Quote
 
