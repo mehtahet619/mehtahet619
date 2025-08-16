@@ -1,4 +1,4 @@
-## Hi there <img src="https://imgs.search.brave.com/jUwkcu8BJFF0TGUALHe3IBfs-T3HDdTBhbIK52I7p6c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvd2F2aW5n/LWhhbmQtZGFyay1i/cm93bi1zdGlja2Vy/LTV5OXB1bXA5OGJy/NGV2ejkuZ2lm.gif" width="30px">
+## Hi there <img src="https://gifdb.com/images/high/waving-hand-sticker-hello-hi-wt2xrirrdaxtnkia.webp" width="30px">
 
 <h1 align="center">
   <a href="https://github.com/mehtahet619">
