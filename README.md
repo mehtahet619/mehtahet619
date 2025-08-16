@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/-GitHub_Resume-24292e?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
