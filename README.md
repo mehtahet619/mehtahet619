@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.tenor.com/tEwuXx7FiTQAAAAM/hi-hey-there.gif" width="30px">
+## Hi there <img src="https://media.tenor.com/tEwuXx7FiTQAAAAM/hi-hey-there.gif" width="70px">
 
 <h1 align="center">
   <a href="https://github.com/mehtahet619">
