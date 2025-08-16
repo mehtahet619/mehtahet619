@@ -3,16 +3,16 @@
 <h1 align="center">
   <a href="https://github.com/mehtahet619">
     <span style="background: linear-gradient(270deg, #ff6ec4, #7873f5, #3fd0f7); background-size: 600% 600%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientBG 12s ease infinite;">
-      Hi there, I'm Het Chirag Mehta!
+    I'm <h3 align="center" style="animation: fadeIn 2s ease forwards; opacity: 0;">
+<!-- Typewriter Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=70A4FC&center=true&width=600&lines=Het Chirag Mehta+AI%2FML%3B+Full+Stack%3B+Cybersecurity%3B+DevOps%3B+Ethical+Hacking%3B+Data+Science%3B+IoT%3B+Web+Development%3B+Networking" alt="Categories Typing Animation"/>
+</p>
     </span>
   </a>
 </h1>
 
-<h3 align="center" style="animation: fadeIn 2s ease forwards; opacity: 0;">
-<!-- Typewriter Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=70A4FC&center=true&width=600&lines=AI%2FML%3B+Full+Stack%3B+Cybersecurity%3B+DevOps%3B+Ethical+Hacking%3B+Data+Science%3B+IoT%3B+Web+Development%3B+Networking" alt="Categories Typing Animation"/>
-</p>
+
 
 
 </h3>
