@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.tenor.com/tEwuXx7FiTQAAAAM/hi-hey-there.gif" width="50px">
 
 <p align="center">
-   <h3> I'm </h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Het+Chirag+Mehta;Full-stack+Developer;Cyber+security;Devops;AI/ML/Computer+Network" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=440&height=45&lines=Het+Chirag+Mehta;Full-stack+Developer;Cyber+security;Devops;AI/ML/Computer+Network" /></a>
 
 </p>
 
