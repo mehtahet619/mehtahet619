@@ -30,7 +30,7 @@
 </p>
 
 ---
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 ## 🧠 AI / Machine Learning Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
