@@ -75,6 +75,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
+---
 
 ## Cybersecurity Skills
 ![Wireshark](https://img.shields.io/badge/-Wireshark-0078D7?logo=wireshark&logoColor=white&style=flat) 
