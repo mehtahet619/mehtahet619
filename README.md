@@ -95,7 +95,7 @@
 ![SIEM](https://img.shields.io/badge/-SIEM-00A1F1?style=flat) 
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-FF6F61?style=flat)
   
-
+---
 
 ### Tools / DevOps
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) 
