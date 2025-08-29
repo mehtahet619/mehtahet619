@@ -162,6 +162,127 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+## 🚀 Open Source Contribution Opportunities
+
+Looking to contribute to open source projects in AI and cybersecurity? Here's a curated list of beginner-friendly projects that welcome new contributors!
+
+### 🧠 AI/Machine Learning Projects
+
+#### **1. Scikit-learn**
+[![GitHub](https://img.shields.io/badge/GitHub-scikit--learn/scikit--learn-181717?logo=github)](https://github.com/scikit-learn/scikit-learn)  
+**Description:** The most popular machine learning library in Python  
+**Tech Stack:** Python, Cython, NumPy, SciPy  
+**Difficulty:** 🟢 Beginner to 🟡 Intermediate  
+**Contribution Types:** Documentation, bug fixes, new algorithms, examples  
+**Good First Issues:** [scikit-learn good first issues](https://github.com/scikit-learn/scikit-learn/labels/good%20first%20issue)
+
+#### **2. TensorFlow**
+[![GitHub](https://img.shields.io/badge/GitHub-tensorflow/tensorflow-181717?logo=github)](https://github.com/tensorflow/tensorflow)  
+**Description:** End-to-end open source platform for machine learning  
+**Tech Stack:** Python, C++, CUDA, Bazel  
+**Difficulty:** 🟡 Intermediate to 🔴 Advanced  
+**Contribution Types:** Documentation, tutorials, bug fixes, community contributions  
+**Good First Issues:** [TensorFlow good first issues](https://github.com/tensorflow/tensorflow/labels/good%20first%20issue)
+
+#### **3. Hugging Face Transformers**
+[![GitHub](https://img.shields.io/badge/GitHub-huggingface/transformers-181717?logo=github)](https://github.com/huggingface/transformers)  
+**Description:** State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX  
+**Tech Stack:** Python, PyTorch, TensorFlow, JAX  
+**Difficulty:** 🟢 Beginner to 🟡 Intermediate  
+**Contribution Types:** Model implementations, documentation, examples, bug fixes  
+**Good First Issues:** [Transformers good first issues](https://github.com/huggingface/transformers/labels/good%20first%20issue)
+
+#### **4. OpenCV**
+[![GitHub](https://img.shields.io/badge/GitHub-opencv/opencv-181717?logo=github)](https://github.com/opencv/opencv)  
+**Description:** Open Source Computer Vision Library  
+**Tech Stack:** C++, Python, Java, MATLAB  
+**Difficulty:** 🟡 Intermediate  
+**Contribution Types:** Algorithm implementations, documentation, tutorials, bug fixes  
+**Good First Issues:** [OpenCV good first issues](https://github.com/opencv/opencv/labels/good%20first%20issue)
+
+#### **5. spaCy**
+[![GitHub](https://img.shields.io/badge/GitHub-explosion/spaCy-181717?logo=github)](https://github.com/explosion/spaCy)  
+**Description:** Industrial-strength Natural Language Processing in Python  
+**Tech Stack:** Python, Cython, JavaScript  
+**Difficulty:** 🟢 Beginner to 🟡 Intermediate  
+**Contribution Types:** Language models, documentation, examples, bug fixes  
+**Good First Issues:** [spaCy good first issues](https://github.com/explosion/spaCy/labels/good%20first%20issue)
+
+### 🛡️ Cybersecurity Projects
+
+#### **1. OWASP ZAP (Zed Attack Proxy)**
+[![GitHub](https://img.shields.io/badge/GitHub-zaproxy/zaproxy-181717?logo=github)](https://github.com/zaproxy/zaproxy)  
+**Description:** World's most popular free security testing tool  
+**Tech Stack:** Java, JavaScript, Python  
+**Difficulty:** 🟢 Beginner to 🟡 Intermediate  
+**Contribution Types:** Scan rules, add-ons, documentation, bug fixes  
+**Good First Issues:** [ZAP good first issues](https://github.com/zaproxy/zaproxy/labels/good%20first%20issue)
+
+#### **2. TheHive**
+[![GitHub](https://img.shields.io/badge/GitHub-TheHive--Project/TheHive-181717?logo=github)](https://github.com/TheHive-Project/TheHive)  
+**Description:** Scalable Security Incident Response Platform  
+**Tech Stack:** Scala, JavaScript, Docker  
+**Difficulty:** 🟡 Intermediate  
+**Contribution Types:** Features, integrations, documentation, bug fixes  
+**Good First Issues:** [TheHive good first issues](https://github.com/TheHive-Project/TheHive/labels/good%20first%20issue)
+
+#### **3. Security Onion**
+[![GitHub](https://img.shields.io/badge/GitHub-Security--Onion--Solutions/securityonion-181717?logo=github)](https://github.com/Security-Onion-Solutions/securityonion)  
+**Description:** Linux distro for threat hunting, enterprise security monitoring  
+**Tech Stack:** Bash, Python, Docker, Elasticsearch  
+**Difficulty:** 🟡 Intermediate  
+**Contribution Types:** Scripts, documentation, testing, configurations  
+**Good First Issues:** [Security Onion discussions](https://github.com/Security-Onion-Solutions/securityonion/discussions)
+
+#### **4. Wazuh**
+[![GitHub](https://img.shields.io/badge/GitHub-wazuh/wazuh-181717?logo=github)](https://github.com/wazuh/wazuh)  
+**Description:** Open source security platform for threat detection and response  
+**Tech Stack:** C, Python, JavaScript, Docker  
+**Difficulty:** 🟡 Intermediate  
+**Contribution Types:** Rules, decoders, documentation, integrations  
+**Good First Issues:** [Wazuh good first issues](https://github.com/wazuh/wazuh/labels/good%20first%20issue)
+
+#### **5. Metasploit Framework**
+[![GitHub](https://img.shields.io/badge/GitHub-rapid7/metasploit--framework-181717?logo=github)](https://github.com/rapid7/metasploit-framework)  
+**Description:** World's most used penetration testing framework  
+**Tech Stack:** Ruby, Python, C, Assembly  
+**Difficulty:** 🟡 Intermediate to 🔴 Advanced  
+**Contribution Types:** Modules, documentation, bug fixes, testing  
+**Good First Issues:** [Metasploit good first issues](https://github.com/rapid7/metasploit-framework/labels/good%20first%20issue)
+
+### 🎯 AI + Cybersecurity Hybrid Projects
+
+#### **1. MISP (Malware Information Sharing Platform)**
+[![GitHub](https://img.shields.io/badge/GitHub-MISP/MISP-181717?logo=github)](https://github.com/MISP/MISP)  
+**Description:** Threat intelligence platform for sharing, storing and correlating IoCs  
+**Tech Stack:** PHP, Python, JavaScript, Machine Learning  
+**Difficulty:** 🟡 Intermediate  
+**Contribution Types:** AI modules, threat feeds, documentation, API improvements  
+
+#### **2. CICFlowMeter**
+[![GitHub](https://img.shields.io/badge/GitHub-ahlashkari/CICFlowMeter-181717?logo=github)](https://github.com/ahlashkari/CICFlowMeter)  
+**Description:** Network traffic flow generator for machine learning cybersecurity applications  
+**Tech Stack:** Java, Python, Machine Learning  
+**Difficulty:** 🟢 Beginner to 🟡 Intermediate  
+**Contribution Types:** Feature extraction, ML models, documentation  
+
+### 💡 Getting Started Tips
+
+1. **Start Small:** Look for issues labeled `good first issue`, `beginner-friendly`, or `documentation`
+2. **Read Contributing Guidelines:** Always check CONTRIBUTING.md before making your first PR
+3. **Join Communities:** Most projects have Discord/Slack channels or discussion forums
+4. **Focus on Documentation:** Often the easiest way to start contributing
+5. **Test Before Submitting:** Make sure your changes work and follow project standards
+
+### 🏷️ Useful Labels to Search For
+- `good first issue` - Perfect for newcomers
+- `help wanted` - Project maintainers are looking for contributors
+- `documentation` - Help improve docs and tutorials
+- `bug` - Fix existing issues (often easier than new features)
+- `hacktoberfest` - Great during October for Hacktoberfest event
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 📈 GitHub Stats 
 
 <p align="center">
