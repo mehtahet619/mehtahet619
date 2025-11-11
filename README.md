@@ -113,7 +113,7 @@
 
 ## 🔥 Projects
 
-<h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker</h3>
+<h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker-Won odoo hackathon</h3>
 **Description:**
 
 The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
@@ -128,7 +128,7 @@ The Carbon Footprint Tracker is an AI-powered platform designed to help industri
 
 **Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 
-<h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS</h3>
+<h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS -won CVMU university hackathon</h3>
 **Description:**
 
 The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
