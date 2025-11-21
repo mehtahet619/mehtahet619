@@ -174,17 +174,88 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 **Key Features:**
 
-🧠 NLP-Based Legal Text Processing using models like LegalBERT, SpaCy, and T5
-🔍 Semantic Search & Summarization for relevant judgments and legal documents
-📚 Predictive Analytics for outcome likelihood and legal trend detection
-🌐 Multilingual Support with XLM-R for localized legal research
-✅ Personalized Case Suggestions and responsible AI integration
-📊 User Dashboard with filters, highlights, and case linking
+- 🧠 NLP-Based Legal Text Processing using models like LegalBERT, SpaCy, and T5
+- 🔍 Semantic Search & Summarization for relevant judgments and legal documents
+- 📚 Predictive Analytics for outcome likelihood and legal trend detection
+- 🌐 Multilingual Support with XLM-R for localized legal research
+- ✅ Personalized Case Suggestions and responsible AI integration
+- 📊 User Dashboard with filters, highlights, and case linking
 
 **Tech Stack:** Python, LegalBERT, T5, XLM-R, SpaCy, Elasticsearch, Scrapy, Flask, Django, React.js, SHAP, XGBoost, LSTM
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
+## 🏅 Certifications
+---
+### **Cybersecurity & AI**
+[![CEH](https://img.shields.io/badge/Cisco-CEH-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f56361cd-880e-4366-b1bc-4cc34e3bc356/linked_in_profile)
+[![AI Security & Governance](https://img.shields.io/badge/Securiti-AI_Security_&_Governance-6C63FF?style=for-the-badge)](https://drive.google.com/file/d/1PCINs9zA2fNaOcvqV-9gwTigODHmZ-wE/view)
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-009444?style=for-the-badge&logo=isc2&logoColor=white)](#)
+
+---
+
+### **SEO & Web**
+[![HubSpot SEO II](https://img.shields.io/badge/HubSpot-SEO_II-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/2tf2f4w8/en/1/het-mehta/seo-ii)
+
+---
+
+### **Artificial Intelligence**
+[![Infosys AI Primer](https://img.shields.io/badge/Infosys_Springboard-AI_Primer-007cc3?style=for-the-badge&logo=infosys&logoColor=white)]()
+[![GenAI Badge](https://img.shields.io/badge/Google-GenAI_Apps_Using_Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![Intro to GenAI](https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![GenAI Path](https://img.shields.io/badge/Google_Cloud-Generative_AI_Path-FFAB00?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+
+---
+
+### **IoT & Embedded Systems**
+[![NPTEL IoT](https://img.shields.io/badge/NPTEL-Introduction_to_IoT-B50938?style=for-the-badge)](#)
+
+---
+
+### **Hackathons**
+[![IIT Indore Hackathon](https://img.shields.io/badge/IIT_Indore-Healthcare_Management_Hackathon-003B6F?style=for-the-badge)](#)
+
+---
+
+### **DevOps**
+[![IBM DevOps](https://img.shields.io/badge/IBM-Introduction_to_DevOps-0530AD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+
+---
+
+### **Programming**
+[![Core Java](https://img.shields.io/badge/LearnQuest-Core_Java_Specialization-F80000?style=for-the-badge&logo=java&logoColor=white)](#)
+[![Intro to Java](https://img.shields.io/badge/LearnQuest-Introduction_to_Java-EC2025?style=for-the-badge)](#)
+[![OOP Java](https://img.shields.io/badge/LearnQuest-OOP_with_Java-FF5733?style=for-the-badge)](#)
+[![Java Libraries](https://img.shields.io/badge/LearnQuest-Java_Class_Library-8E44AD?style=for-the-badge)](#)
+
+---
+
+### **Networking**
+[![TCP/IP](https://img.shields.io/badge/Yonsei_University-Introduction_to_TCP/IP-005BAC?style=for-the-badge)](#)
+
+---
+
+### **UI/UX**
+[![UI Design](https://img.shields.io/badge/CalArts-UI_Design-FF0066?style=for-the-badge)](#)
+
+---
+
+### **Linux, AR & SQL**
+[![Linux CLI](https://img.shields.io/badge/Coursera-Linux_Command_Line-181717?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![ARCore](https://img.shields.io/badge/Coursera-Augmented_Reality_&_ARCore-4285F4?style=for-the-badge)](#)
+[![SQL](https://img.shields.io/badge/University_of_Michigan-SQL-022D72?style=for-the-badge)](#)
+
+---
+
+### **C Programming**
+[![Advanced C](https://img.shields.io/badge/Dartmouth-Advanced_C_Data_Types-007A33?style=for-the-badge)](#)
+[![Pointers](https://img.shields.io/badge/Dartmouth-C_Pointers_&_Memory-0A6847?style=for-the-badge)](#)
+
+
 
 ## 📈 GitHub Stats 
 
