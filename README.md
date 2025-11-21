@@ -233,7 +233,7 @@ This project is an advanced AI-powered legal research engine tailored specifical
 ---
 
 ### **Networking**
-[![TCP/IP](https://img.shields.io/badge/Yonsei_University-Introduction_to_TCP/IP-005BAC?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.coursera.org/account/accomplishments/records/7TXAK6YB84ZE)
+[![TCP/IP](https://img.shields.io/badge/Yonsei_University-TCP/IP-005BAC?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.coursera.org/account/accomplishments/records/7TXAK6YB84ZE)
 
 ---
 
