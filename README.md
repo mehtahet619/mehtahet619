@@ -114,6 +114,7 @@
 ## 🔥 Projects
 
 <h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker-Won odoo hackathon</h3>
+
 **Description:**
 
 The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
@@ -126,9 +127,10 @@ The Carbon Footprint Tracker is an AI-powered platform designed to help industri
 - 📈 Historical Data Visualization and trend analysis
 - 🌐 Web Dashboard for tracking and decision-making
 
-**Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
+**Tech Stack** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 ---
 <h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS -won CVMU university hackathon</h3>
+
 **Description:**
 
 The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
@@ -141,7 +143,7 @@ The Network Intrusion Detection System is a real-time AI-powered security soluti
 - 🔒 Modular Design to integrate with intrusion prevention systems (IPS)
 - 🔁 Scalable & Adaptable to evolving network environments
 
-**Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
+**Tech Stack** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
 ---
 ## 🧠 Real-Time Campus Monitoring & Threat Prediction System – 1st Place at AI IndiGenius Hackathon
 
@@ -161,13 +163,14 @@ IoT Auto-Actions:
 Intruder → doors lock, lights off, siren on
 Fire or smoke → doors open, lights on, evacuation siren
 
-**Tech Stack:**
+**Tech Stack**
 AI: ResNet-50, Bi-LSTM, Custom Dataset
 Hardware: ESP32, MQ-135, SG90 servo, LEDs, Speaker
 Frontend: React, Tailwind
 Backend: Supabase
 ---
 <h3 style="animation: slideIn 3s ease forwards; opacity: 0;">⚖️ AI-Driven Research Engine</h3>
+
 **Description:**
 
 This project is an advanced AI-powered legal research engine tailored specifically for commercial courts. It streamlines the process of legal research by extracting, analyzing, and recommending relevant judgments using state-of-the-art NLP and machine learning models. The system enables lawyers, judges, and legal researchers to access case precedents, predict outcomes, and generate insights with unprecedented speed and accuracy—helping modernize the legal ecosystem.
