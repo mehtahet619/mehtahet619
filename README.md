@@ -113,78 +113,84 @@
 
 ## 🔥 Projects
 
-<h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker-Won odoo hackathon</h3>
-
-**Description:**
-
-The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
-
-**Key Features**
-- 📡 Real-time Monitoring using IoT devices
-- 📊 Multistep Prediction of monthly carbon emissions using CNN-LSTM models
-- 🧠 AI-Driven Insights for emission reduction and energy optimization
-- 🔍 Industry-specific Recommendations based on regulatory frameworks
-- 📈 Historical Data Visualization and trend analysis
-- 🌐 Web Dashboard for tracking and decision-making
-
-**Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 ---
-<h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS -won CVMU university hackathon</h3>
 
-**Description:**
+<h3 style="animation: slideIn 2s ease forwards; opacity: 0;">♻️ Carbon Footprint Tracker — Won Odoo Hackathon</h3>
 
-The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
+**Description:**  
+The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It uses IoT sensors to collect environmental data and machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively reduce their environmental impact.
 
 **Key Features:**
-- 🚨 Anomaly-Based Intrusion Detection using machine learning algorithms
-- 🧠 Intelligent Pattern Recognition for zero-day attack detection
-- 📈 Real-time Traffic Monitoring and packet analysis
-- 🧩 Visualization Dashboard for threat reports and alerts
-- 🔒 Modular Design to integrate with intrusion prevention systems (IPS)
-- 🔁 Scalable & Adaptable to evolving network environments
+- 📡 Real-time monitoring using IoT devices  
+- 📊 Multistep emission prediction using CNN-LSTM  
+- 🧠 AI-driven insights for emission reduction  
+- 🔍 Industry-specific recommendations  
+- 📈 Historical trend analysis  
+- 🌐 Web dashboard for decision-making  
+
+**Tech Stack:** Python, TensorFlow, CNN-LSTM, CI/CD, Flask, React.js, Node.js, Supabase, IoT Sensors
+
+---
+
+<h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS — Won CVMU University Hackathon</h3>
+
+**Description:**  
+A real-time AI-powered Network Intrusion Detection System that monitors and analyzes network traffic for suspicious activities. Using anomaly-based techniques, it detects deviations from normal behavior to identify zero-day attacks and stealthy intrusions.
+
+**Key Features:**
+- 🚨 Anomaly-based intrusion detection  
+- 🧠 Intelligent pattern recognition for zero-day attacks  
+- 📈 Real-time traffic monitoring  
+- 🧩 Visualization dashboard for threat reports  
+- 🔒 Modular design for IPS integration  
+- 🔁 Scalable and adaptable to evolving networks  
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
----
-## 🧠 Real-Time Campus Monitoring & Threat Prediction System – 1st Place at AI IndiGenius Hackathon
 
-**Description:**
-A real-time AI-driven safety system built to predict threats on campus before they happen. Instead of relying on object detection, the system analyzes human posture, gestures, and expressions to understand intent. It identifies risks like assaults, thefts, intrusions, and fires, then triggers automated IoT responses and emergency alerts. Designed for large campuses, it improves safety through early detection, rapid response, and intelligent risk mapping.
+---
+
+## 🧠 Real-Time Campus Monitoring & Threat Prediction System — 1st Place at AI IndiGenius Hackathon
+
+**Description:**  
+A real-time AI-driven safety solution that predicts threats on campus before they occur. Instead of detecting objects, it analyzes posture, gestures, and facial expressions to understand intent. The system identifies risks like assaults, intrusions, theft, and fires, then triggers automated IoT responses and emergency alerts.
 
 **Key Features:**
-- 🔍 Intent-Based Threat Prediction using ResNet-50 + Bi-LSTM
-- 🗺️ Risk Hotspot Mapping for preventive action
-- 📡 Human-in-the-loop AI with real-time SMS and call alerts to authorities
-- 🔔 IoT Auto-Response System for intruders, fires, and emergencies
-- ⚡ Real-Time Monitoring Dashboard for alerts and status updates
-- 🔑 Lower False Alarms by focusing on behavior, not just objects
-- 🏫 Campus-Wide Safety Automation integrated with sensors and hardware
+- 🔍 Intent-based threat prediction using ResNet-50 + Bi-LSTM  
+- 🗺️ Risk hotspot mapping  
+- 📡 Human-in-the-loop alerts via SMS and calls  
+- 🔔 IoT auto-response mechanisms  
+- ⚡ Real-time monitoring dashboard  
+- 🔑 Reduced false alarms through intent analysis  
+- 🏫 Full campus safety integration  
 
-IoT Auto-Actions:
-Intruder → doors lock, lights off, siren on
-Fire or smoke → doors open, lights on, evacuation siren
+**IoT Auto-Actions:**
+- Intruder → doors lock, lights off, siren on  
+- Fire/smoke → doors open, lights on, evacuation siren  
 
-**Tech Stack:**
-AI: ResNet-50, Bi-LSTM, Custom Dataset
-Hardware: ESP32, MQ-135, SG90 servo, LEDs, Speaker
-Frontend: React, Tailwind
+**Tech Stack:**  
+AI: ResNet-50, Bi-LSTM, Custom Dataset  
+Hardware: ESP32, MQ-135, SG90 Servo, LEDs, Speaker  
+Frontend: React, Tailwind  
 Backend: Supabase
+
 ---
+
 <h3 style="animation: slideIn 3s ease forwards; opacity: 0;">⚖️ AI-Driven Research Engine</h3>
 
-**Description:**
-
-This project is an advanced AI-powered legal research engine tailored specifically for commercial courts. It streamlines the process of legal research by extracting, analyzing, and recommending relevant judgments using state-of-the-art NLP and machine learning models. The system enables lawyers, judges, and legal researchers to access case precedents, predict outcomes, and generate insights with unprecedented speed and accuracy—helping modernize the legal ecosystem.
+**Description:**  
+An advanced AI-powered legal research engine tailored for commercial courts. It extracts, analyzes, and recommends relevant judgments using NLP and machine learning models, improving the speed and accuracy of legal research.
 
 **Key Features:**
-
-- 🧠 NLP-Based Legal Text Processing using models like LegalBERT, SpaCy, and T5
-- 🔍 Semantic Search & Summarization for relevant judgments and legal documents
-- 📚 Predictive Analytics for outcome likelihood and legal trend detection
-- 🌐 Multilingual Support with XLM-R for localized legal research
-- ✅ Personalized Case Suggestions and responsible AI integration
-- 📊 User Dashboard with filters, highlights, and case linking
+- 🧠 NLP-based legal text processing (LegalBERT, SpaCy, T5)  
+- 🔍 Semantic search & summarization  
+- 📚 Predictive analytics for case outcomes  
+- 🌐 Multilingual support (XLM-R)  
+- ✅ Personalized case suggestions  
+- 📊 Interactive dashboard with filters & highlights  
 
 **Tech Stack:** Python, LegalBERT, T5, XLM-R, SpaCy, Elasticsearch, Scrapy, Flask, Django, React.js, SHAP, XGBoost, LSTM
+
+---
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
