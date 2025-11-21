@@ -290,7 +290,11 @@ This project is an advanced AI-powered legal research engine tailored specifical
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
+<!-- Markdown -->
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 ## 📫 Connect With Me
