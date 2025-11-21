@@ -143,6 +143,30 @@ The Network Intrusion Detection System is a real-time AI-powered security soluti
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
 
+<h3 style="animation: slideIn 3s ease forwards; opacity: 0;">🧠 Real-Time Campus Monitoring & Threat Prediction System – 1st Place at AI IndiGenius Hackathon<h3/>
+
+**Description:**
+A real-time AI-driven safety system built to predict threats on campus before they happen. Instead of relying on object detection, the system analyzes human posture, gestures, and expressions to understand intent. It identifies risks like assaults, thefts, intrusions, and fires, then triggers automated IoT responses and emergency alerts. Designed for large campuses, it improves safety through early detection, rapid response, and intelligent risk mapping.
+
+**Key Features:**
+🔍 Intent-Based Threat Prediction using ResNet-50 + Bi-LSTM
+🗺️ Risk Hotspot Mapping for preventive action
+📡 Human-in-the-loop AI with real-time SMS and call alerts to authorities
+🔔 IoT Auto-Response System for intruders, fires, and emergencies
+⚡ Real-Time Monitoring Dashboard for alerts and status updates
+🔑 Lower False Alarms by focusing on behavior, not just objects
+🏫 Campus-Wide Safety Automation integrated with sensors and hardware
+
+IoT Auto-Actions:
+Intruder → doors lock, lights off, siren on
+Fire or smoke → doors open, lights on, evacuation siren
+
+**Tech Stack:**
+AI: ResNet-50, Bi-LSTM, Custom Dataset
+Hardware: ESP32, MQ-135, SG90 servo, LEDs, Speaker
+Frontend: React, Tailwind
+Backend: Supabase
+
 <h3 style="animation: slideIn 3s ease forwards; opacity: 0;">⚖️ AI-Driven Research Engine</h3>
 **Description:**
 
