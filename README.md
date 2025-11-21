@@ -212,48 +212,35 @@ This project is an advanced AI-powered legal research engine tailored specifical
 ---
 
 ### **IoT & Embedded Systems**
-[![NPTEL IoT](https://img.shields.io/badge/NPTEL-Introduction_to_IoT-B50938?style=for-the-badge)](#)
+[![NPTEL IoT](https://img.shields.io/badge/NPTEL-Introduction_to_IoT-B50938?style=for-the-badge)](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS44S44110037304342002)
 
----
-
-### **Hackathons**
-[![IIT Indore Hackathon](https://img.shields.io/badge/IIT_Indore-Healthcare_Management_Hackathon-003B6F?style=for-the-badge)](#)
 
 ---
 
 ### **DevOps**
-[![IBM DevOps](https://img.shields.io/badge/IBM-Introduction_to_DevOps-0530AD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![IBM DevOps](https://img.shields.io/badge/IBM-Introduction_to_DevOps-0530AD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/records/3UMHT6C5ABYW)
 
 ---
 
 ### **Programming**
-[![Core Java](https://img.shields.io/badge/LearnQuest-Core_Java_Specialization-F80000?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Intro to Java](https://img.shields.io/badge/LearnQuest-Introduction_to_Java-EC2025?style=for-the-badge)](#)
-[![OOP Java](https://img.shields.io/badge/LearnQuest-OOP_with_Java-FF5733?style=for-the-badge)](#)
-[![Java Libraries](https://img.shields.io/badge/LearnQuest-Java_Class_Library-8E44AD?style=for-the-badge)](#)
+[![Core Java](https://img.shields.io/badge/LearnQuest-Core_Java_Specialization-F80000?style=for-the-badge&logo=java&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/7PNCV6KUULVA)
 
 ---
 
 ### **Networking**
-[![TCP/IP](https://img.shields.io/badge/Yonsei_University-Introduction_to_TCP/IP-005BAC?style=for-the-badge)](#)
-
----
-
-### **UI/UX**
-[![UI Design](https://img.shields.io/badge/CalArts-UI_Design-FF0066?style=for-the-badge)](#)
+[![TCP/IP](https://img.shields.io/badge/Yonsei_University-Introduction_to_TCP/IP-005BAC?style=for-the-badge)](https://www.coursera.org/account/accomplishments/records/7TXAK6YB84ZE)
 
 ---
 
 ### **Linux, AR & SQL**
-[![Linux CLI](https://img.shields.io/badge/Coursera-Linux_Command_Line-181717?style=for-the-badge&logo=linux&logoColor=white)](#)
-[![ARCore](https://img.shields.io/badge/Coursera-Augmented_Reality_&_ARCore-4285F4?style=for-the-badge)](#)
-[![SQL](https://img.shields.io/badge/University_of_Michigan-SQL-022D72?style=for-the-badge)](#)
+[![Linux CLI](https://img.shields.io/badge/Coursera-Linux_Command_Line-181717?style=for-the-badge&logo=linux&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/M277G53W6L35)
+[![ARCore](https://img.shields.io/badge/Coursera-Augmented_Reality_&_ARCore-4285F4?style=for-the-badge)](https://www.coursera.org/account/accomplishments/certificate/AUY5ADU7X4P5)
+[![SQL](https://img.shields.io/badge/University_of_Michigan-SQL-022D72?style=for-the-badge)](https://www.coursera.org/account/accomplishments/certificate/P5A8MP44D8L9)
 
 ---
 
 ### **C Programming**
-[![Advanced C](https://img.shields.io/badge/Dartmouth-Advanced_C_Data_Types-007A33?style=for-the-badge)](#)
-[![Pointers](https://img.shields.io/badge/Dartmouth-C_Pointers_&_Memory-0A6847?style=for-the-badge)](#)
+[![Advanced C](https://img.shields.io/badge/Dartmouth-Advanced_C_Data_Types-007A33?style=for-the-badge)](https://www.coursera.org/account/accomplishments/certificate/JACHVTV7YAQP)
 
 
 
