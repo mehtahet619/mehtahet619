@@ -188,68 +188,6 @@ This project is an advanced AI-powered legal research engine tailored specifical
 
 
 
-
-## 🏅 Certifications
----
-### **Cybersecurity & AI**
-## 🏅 Certifications
-
-### **Cybersecurity & AI**
-[![CEH](https://img.shields.io/badge/Cisco-CEH-1BA0E2?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f56361cd-880e-4366-b1bc-4cc34e3bc356/linked_in_profile)
-[![AI Security & Governance](https://img.shields.io/badge/Securiti-AI_Security_&_Governance-6C63FF?style=for-the-badge&logo=security&logoColor=white)](https://drive.google.com/file/d/1PCINs9zA2fNaOcvqV-9gwTigODHmZ-wE/view)
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity-009444?style=for-the-badge&logo=isc2&logoColor=white)](#)
-
----
-
-### **SEO & Web**
-[![HubSpot SEO II](https://img.shields.io/badge/HubSpot-SEO_II-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/2tf2f4w8/en/1/het-mehta/seo-ii)
-
----
-
-### **Artificial Intelligence**
-[![Infosys AI Primer](https://img.shields.io/badge/Infosys_Springboard-AI_Primer-007cc3?style=for-the-badge&logo=infosys&logoColor=white)](https://drive.google.com/file/d/1MoNCz9WUx1tA-2mYxu6Lnj8hqNasaRqc/view)
-[![GenAI Badge](https://img.shields.io/badge/Google-GenAI_Apps_Using_Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/1582228c-d061-4162-99f7-68a61a2012a7)
-[![Intro to GenAI](https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/1582228c-d061-4162-99f7-68a61a2012a7/badges/7307961)
-[![GenAI Path](https://img.shields.io/badge/Google_Cloud-Generative_AI_Path-FFAB00?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/1582228c-d061-4162-99f7-68a61a2012a7/badges/7307959)
-
----
-
-### **IoT & Embedded Systems**
-[![NPTEL IoT](https://img.shields.io/badge/NPTEL-Introduction_to_IoT-B50938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://internalapp.nptel.ac.in/noc/Ecertificate/?q=NPTEL25CS44S44110037304342002)
-
----
-
-### **DevOps**
-[![IBM DevOps](https://img.shields.io/badge/IBM-Introduction_to_DevOps-0530AD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/records/3UMHT6C5ABYW)
-
----
-
-### **Programming**
-[![Core Java](https://img.shields.io/badge/LearnQuest-Core_Java_Specialization-F80000?style=for-the-badge&logo=java&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/7PNCV6KUULVA)
-[![Intro to Java](https://img.shields.io/badge/LearnQuest-Introduction_to_Java-EC2025?style=for-the-badge&logo=java&logoColor=white)](https://www.coursera.org/account/accomplishments/records/FHJV7XZAUMUC)
-[![OOP in Java](https://img.shields.io/badge/LearnQuest-OOP_with_Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.coursera.org/account/accomplishments/records/AELA27VBK2BS)
-[![Java Library](https://img.shields.io/badge/LearnQuest-Java_Class_Library-8E44AD?style=for-the-badge&logo=java&logoColor=white)](https://www.coursera.org/account/accomplishments/records/YBHL3VN26ZSB)
-
----
-
-### **Networking**
-[![TCP/IP](https://img.shields.io/badge/Yonsei_University-TCP/IP-005BAC?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.coursera.org/account/accomplishments/records/7TXAK6YB84ZE)
-
----
-
-### **Linux, AR & SQL**
-[![Linux CLI](https://img.shields.io/badge/Coursera-Linux_Command_Line-181717?style=for-the-badge&logo=linux&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/M277G53W6L35)
-[![ARCore](https://img.shields.io/badge/Coursera-Augmented_Reality_&_ARCore-4285F4?style=for-the-badge&logo=googlearcore&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/AUY5ADU7X4P5)
-[![SQL](https://img.shields.io/badge/University_of_Michigan-SQL-022D72?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/P5A8MP44D8L9)
-
----
-
-### **C Programming**
-[![Advanced C](https://img.shields.io/badge/Dartmouth-Advanced_C_Data_Types-00A36C?style=for-the-badge&logo=c&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/JACHVTV7YAQP)
-[![Pointers & Memory](https://img.shields.io/badge/Dartmouth-C_Pointers_&_Memory-00897B?style=for-the-badge&logo=c&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/MRU96NMST6TV)
-
-
-
 ## 📈 GitHub Stats 
 
 <p align="center">
