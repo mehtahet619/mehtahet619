@@ -293,7 +293,8 @@ This project is an advanced AI-powered legal research engine tailored specifical
 <!-- Markdown -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
