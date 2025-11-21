@@ -127,7 +127,7 @@ The Carbon Footprint Tracker is an AI-powered platform designed to help industri
 - 🌐 Web Dashboard for tracking and decision-making
 
 **Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
-
+---
 <h3 style="animation: slideIn 2.5s ease forwards; opacity: 0;">🛡️ NIDS -won CVMU university hackathon</h3>
 **Description:**
 
@@ -142,7 +142,7 @@ The Network Intrusion Detection System is a real-time AI-powered security soluti
 - 🔁 Scalable & Adaptable to evolving network environments
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
-
+---
 ## 🧠 Real-Time Campus Monitoring & Threat Prediction System – 1st Place at AI IndiGenius Hackathon
 
 **Description:**
@@ -166,7 +166,7 @@ AI: ResNet-50, Bi-LSTM, Custom Dataset
 Hardware: ESP32, MQ-135, SG90 servo, LEDs, Speaker
 Frontend: React, Tailwind
 Backend: Supabase
-
+---
 <h3 style="animation: slideIn 3s ease forwards; opacity: 0;">⚖️ AI-Driven Research Engine</h3>
 **Description:**
 
