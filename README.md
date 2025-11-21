@@ -119,12 +119,12 @@
 The Carbon Footprint Tracker is an AI-powered platform designed to help industries monitor, analyze, and reduce their carbon emissions in real time. It leverages IoT sensors to collect environmental data and uses machine learning models to perform multistep prediction of carbon output. The system provides actionable insights based on the Air Action Plan (AAP), Emissions Trading System (ETS), and transport-related emissions, enabling organizations—especially red-zone industries—to proactively manage and lower their environmental impact.
 
 **Key Features**
-📡 Real-time Monitoring using IoT devices
-📊 Multistep Prediction of monthly carbon emissions using CNN-LSTM models
-🧠 AI-Driven Insights for emission reduction and energy optimization
-🔍 Industry-specific Recommendations based on regulatory frameworks
-📈 Historical Data Visualization and trend analysis
-🌐 Web Dashboard for tracking and decision-making
+- 📡 Real-time Monitoring using IoT devices
+- 📊 Multistep Prediction of monthly carbon emissions using CNN-LSTM models
+- 🧠 AI-Driven Insights for emission reduction and energy optimization
+- 🔍 Industry-specific Recommendations based on regulatory frameworks
+- 📈 Historical Data Visualization and trend analysis
+- 🌐 Web Dashboard for tracking and decision-making
 
 **Tech Stack:** Python, TensorFlow, CNN-LSTM,CI/CD pipeline,Fine Tuning, Flask, React.js, Node.js, Supabase , IoT Sensors
 
@@ -134,12 +134,12 @@ The Carbon Footprint Tracker is an AI-powered platform designed to help industri
 The Network Intrusion Detection System is a real-time AI-powered security solution designed to monitor and analyze network traffic for suspicious activities and potential threats. Built using anomaly-based detection techniques, the system identifies deviations from normal behavior to flag zero-day attacks and stealthy intrusions. This project serves as the first line of defense against cyber threats, enabling smarter and faster threat detection for modern networks.
 
 **Key Features:**
-🚨 Anomaly-Based Intrusion Detection using machine learning algorithms
-🧠 Intelligent Pattern Recognition for zero-day attack detection
-📈 Real-time Traffic Monitoring and packet analysis
-🧩 Visualization Dashboard for threat reports and alerts
-🔒 Modular Design to integrate with intrusion prevention systems (IPS)
-🔁 Scalable & Adaptable to evolving network environments
+- 🚨 Anomaly-Based Intrusion Detection using machine learning algorithms
+- 🧠 Intelligent Pattern Recognition for zero-day attack detection
+- 📈 Real-time Traffic Monitoring and packet analysis
+- 🧩 Visualization Dashboard for threat reports and alerts
+- 🔒 Modular Design to integrate with intrusion prevention systems (IPS)
+- 🔁 Scalable & Adaptable to evolving network environments
 
 **Tech Stack:** Python, Scikit-learn, XGBoost, Random Forest, Flask, Wireshark, Pandas, Matplotlib
 
@@ -149,13 +149,13 @@ The Network Intrusion Detection System is a real-time AI-powered security soluti
 A real-time AI-driven safety system built to predict threats on campus before they happen. Instead of relying on object detection, the system analyzes human posture, gestures, and expressions to understand intent. It identifies risks like assaults, thefts, intrusions, and fires, then triggers automated IoT responses and emergency alerts. Designed for large campuses, it improves safety through early detection, rapid response, and intelligent risk mapping.
 
 **Key Features:**
-🔍 Intent-Based Threat Prediction using ResNet-50 + Bi-LSTM
-🗺️ Risk Hotspot Mapping for preventive action
-📡 Human-in-the-loop AI with real-time SMS and call alerts to authorities
-🔔 IoT Auto-Response System for intruders, fires, and emergencies
-⚡ Real-Time Monitoring Dashboard for alerts and status updates
-🔑 Lower False Alarms by focusing on behavior, not just objects
-🏫 Campus-Wide Safety Automation integrated with sensors and hardware
+- 🔍 Intent-Based Threat Prediction using ResNet-50 + Bi-LSTM
+- 🗺️ Risk Hotspot Mapping for preventive action
+- 📡 Human-in-the-loop AI with real-time SMS and call alerts to authorities
+- 🔔 IoT Auto-Response System for intruders, fires, and emergencies
+- ⚡ Real-Time Monitoring Dashboard for alerts and status updates
+- 🔑 Lower False Alarms by focusing on behavior, not just objects
+- 🏫 Campus-Wide Safety Automation integrated with sensors and hardware
 
 IoT Auto-Actions:
 Intruder → doors lock, lights off, siren on
