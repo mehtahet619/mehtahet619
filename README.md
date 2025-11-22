@@ -1,5 +1,3 @@
-## Hi there <img src="https://media.tenor.com/tEwuXx7FiTQAAAAM/hi-hey-there.gif" width="50px">
-
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=450&size=24&pause=800&color=70A4FC&width=500&height=45&lines=I'm+Het+Chirag+Mehta;a+Full-stack+Developer;a+Cyber+Security+Enthusiast;a+DevOps+Engineer;an+AI/ML+Engineer;Computer+Networking+Engineer" />
 
